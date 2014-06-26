@@ -1,4 +1,4 @@
-Get started with ModuleTea
+Get started with MainTea
 -----------------------------------
 
 Welcome to Node JS Web Starter application that uses the IBM DataCache REST interface!
@@ -6,7 +6,7 @@ Welcome to Node JS Web Starter application that uses the IBM DataCache REST inte
 This sample application demonstrates how to write a Node JS application using IBM DataCache REST interface and deploy it on BlueMix.
 
 1. [Install the cf command-line tool](https://www.ng.bluemix.net/docs/redirect.jsp?name=cf-instructions).
-2. [Download the starter application package](https://ace.ng.bluemix.net:443/rest/../rest/apps/2b274b3e-d5e7-4627-9289-da3a30c809be/starter-download)
+2. [Download the starter application package](https://ace.ng.bluemix.net:443/rest/../rest/apps/43fe17ea-429b-4368-ab37-20132d115d01/starter-download)
 3. Extract the package and cd to it.
 4. Connect to BlueMix:
 
@@ -19,6 +19,6 @@ This sample application demonstrates how to write a Node JS application using IB
 		
 6. Deploy your app:
 
-		cf push ModuleTea
+		cf push MainTea
 
-7. Access your app: [http://ModuleTea.ng.bluemix.net](http://ModuleTea.ng.bluemix.net)
+7. Access your app: [http://MainTea.ng.bluemix.net](http://MainTea.ng.bluemix.net)
